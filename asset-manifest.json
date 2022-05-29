@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.03fea63a.css",
-    "main.js": "/static/js/main.55e69563.js",
-    "static/js/787.fe233384.chunk.js": "/static/js/787.fe233384.chunk.js",
-    "index.html": "/index.html",
-    "main.03fea63a.css.map": "/static/css/main.03fea63a.css.map",
-    "main.55e69563.js.map": "/static/js/main.55e69563.js.map",
-    "787.fe233384.chunk.js.map": "/static/js/787.fe233384.chunk.js.map"
+    "main.css": "/EJH_Crypto_Lab/static/css/main.03fea63a.css",
+    "main.js": "/EJH_Crypto_Lab/static/js/main.ffc7a8c0.js",
+    "static/js/787.fe233384.chunk.js": "/EJH_Crypto_Lab/static/js/787.fe233384.chunk.js",
+    "index.html": "/EJH_Crypto_Lab/index.html",
+    "main.03fea63a.css.map": "/EJH_Crypto_Lab/static/css/main.03fea63a.css.map",
+    "main.ffc7a8c0.js.map": "/EJH_Crypto_Lab/static/js/main.ffc7a8c0.js.map",
+    "787.fe233384.chunk.js.map": "/EJH_Crypto_Lab/static/js/787.fe233384.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03fea63a.css",
-    "static/js/main.55e69563.js"
+    "static/js/main.ffc7a8c0.js"
   ]
 }
