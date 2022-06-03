@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/EJH_Crypto_Lab/static/css/main.8222fbd3.css",
-    "main.js": "/EJH_Crypto_Lab/static/js/main.895a9d62.js",
+    "main.css": "/EJH_Crypto_Lab/static/css/main.f263b109.css",
+    "main.js": "/EJH_Crypto_Lab/static/js/main.a08cb059.js",
     "static/js/787.fe233384.chunk.js": "/EJH_Crypto_Lab/static/js/787.fe233384.chunk.js",
     "static/media/people.png": "/EJH_Crypto_Lab/static/media/people.f38ea6cb15e58ba8ab29.png",
     "static/media/cryptocurrency-3085139_1280.jpeg": "/EJH_Crypto_Lab/static/media/cryptocurrency-3085139_1280.0628c013c3cb753b9fd1.jpeg",
     "static/media/eunjae.png": "/EJH_Crypto_Lab/static/media/eunjae.701259cc85e58be63e98.png",
     "static/media/jihyun.png": "/EJH_Crypto_Lab/static/media/jihyun.5ccd61d81f58b8620bdc.png",
     "index.html": "/EJH_Crypto_Lab/index.html",
-    "main.8222fbd3.css.map": "/EJH_Crypto_Lab/static/css/main.8222fbd3.css.map",
-    "main.895a9d62.js.map": "/EJH_Crypto_Lab/static/js/main.895a9d62.js.map",
+    "main.f263b109.css.map": "/EJH_Crypto_Lab/static/css/main.f263b109.css.map",
+    "main.a08cb059.js.map": "/EJH_Crypto_Lab/static/js/main.a08cb059.js.map",
     "787.fe233384.chunk.js.map": "/EJH_Crypto_Lab/static/js/787.fe233384.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8222fbd3.css",
-    "static/js/main.895a9d62.js"
+    "static/css/main.f263b109.css",
+    "static/js/main.a08cb059.js"
   ]
 }
